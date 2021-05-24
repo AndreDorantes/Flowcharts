@@ -1,8 +1,8 @@
-### Classification
+# Classification
 
 ## Part 1
 
-# Silver
+### Silver
 
 1.  Explain why a developer, who is good at both low-level and high-level programming languages, would normally use a high-level language when writing programs?
  ```sh
